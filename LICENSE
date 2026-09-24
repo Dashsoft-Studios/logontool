@@ -18,8 +18,17 @@ der Originalsoftware beitragen.
 3. Dekompilierungs-Verbot:
 Es ist untersagt, die Software zurückzuentwickeln (Reverse Engineering), zu dekompilieren,
 zu disassemblieren oder auf andere Weise zu versuchen, den Quellcode der Software offenzulegen,
-es sei denn und nur soweit dies durch geltendes zwingendes Rech
+es sei denn und nur soweit dies durch geltendes zwingendes Recht
 (z.B. § 69e UrhG zur Herstellung von Interoperabilität) ausdrücklich und unabdingbar erlaubt ist.
+
+4. Ausnahme für schulische und Bildungszwecke:
+Das Erforschen des Codes zu rein schulischen Zwecken sowie im Rahmen des Bildungsbetriebs ist zulässig.
+In diesem spezifischen Fall ist es erlaubt, die Software zu dekompilieren und zu bearbeiten.
+Für die bearbeitete Version übernimmt der jeweilige Bearbeiter die alleinige und vollständige Haftung;
+jegliche Haftung von Dashsoft-Studios für modifizierte Versionen ist ausgeschlossen.
+Die bearbeitete Software darf ausschließlich von den aktiv an der jeweiligen schulischen Maßnahme
+teilnehmenden Personen genutzt werden.Auch im Falle einer solchen Bearbeitung ist es zwingend erforderlich,
+das originale Copyright von Dashsoft-Studios unverändert in allen Dateien und Programmanzeigen beizubehalten.
 
 DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR UND OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE BEREITGESTELLT,
 EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK
